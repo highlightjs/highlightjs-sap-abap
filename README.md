@@ -1,5 +1,7 @@
+[![npm version](https://badge.fury.io/js/highlightjs-sap-abap.svg)](https://badge.fury.io/js/highlightjs-sap-abap)
+
 # highlightjs-sap-abap
-Please add a better description!
+SAP ABAP highlighting for highlight.js
 
 ## Usage
 todo, add examples
