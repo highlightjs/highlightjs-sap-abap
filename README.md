@@ -8,4 +8,4 @@ todo, add examples
 MIT
 
 ## Maintainers
-@larshp, @cassioiks
+[@cassioiks](https://github.com/cassioiks), [@larshp](https://github.com/larshp)
