@@ -26,7 +26,7 @@ Simply load the module after loading Highlight.js. This module is just a CDN bui
 <script src="/path/to/highlight.min.js"></script>
 <script src="/path/to/highlightjs-sap-abap/dist/abap.min.js"></script>
 <script type="text/javascript">
-  hljs.initHighlightingOnLoad();
+  hljs.highlightAll();
 </script>
 ```
 
