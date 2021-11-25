@@ -1,6 +1,6 @@
 {
   "name": "highlightjs-sap-abap",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "highlight.js syntax definition for SAP ABAP",
   "main": "src/abap.js",
   "scripts": {
