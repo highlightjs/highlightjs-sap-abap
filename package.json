@@ -4,6 +4,7 @@
   "description": "highlight.js syntax definition for SAP ABAP",
   "main": "src/abap.js",
   "scripts": {
+    "publish:minor": "npm version minor && npm publish --access public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
